@@ -1,2 +1,21 @@
-# Environemt variables/passwords
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
 .env
+
+# Docker artifacts
+*.log
+*.pid
+
+# Editor files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
